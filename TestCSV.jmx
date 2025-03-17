@@ -8,7 +8,7 @@
     </TestPlan>
     <hashTree>
       <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config">
-        <stringProp name="filename">/Users/shahirbilagi/Documents/EffigoGlobal/JMeter_Practice_Example/DataCSV.csv</stringProp>
+        <stringProp name="filename">/Users/shahirbilagi/Documents/Study/PROJECTS/JMeter_Practice/DataCSV.csv</stringProp>
         <stringProp name="fileEncoding"></stringProp>
         <stringProp name="variableNames"></stringProp>
         <boolProp name="ignoreFirstLine">false</boolProp>
